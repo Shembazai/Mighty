@@ -32,3 +32,46 @@ git clone https://github.com/shembazai/mighty.git
 cd mighty
 chmod +x mighty.py
 sudo python3 mighty.py
+
+
+🧠 How It Works
+
+Removes pre-defined lists of bloat packages
+
+Installs developer tools and productivity apps
+
+Cleans up package caches
+
+Reboots the system at the end
+
+Everything is logged in post_installer.log.
+
+🛡️ License
+This project is dual-licensed:
+
+AGPL-3.0 License: Free for open-source use.
+
+Commercial License: Required for proprietary or internal business use.
+
+For commercial licensing, see LICENSE_COMMERCIAL.md or contact:
+
+Website: https://out-of-the-matrix.org
+Email: outofthematrix2026@gmail.com
+
+💬 Credits
+Created by me, Shemba, a self-taught Linux and AI systems architect with a passion for minimalist efficiency and off-grid independence.
+
+🌱 Support & Contributions
+Want to help improve Mighty? Fork the repo and open a pull request.
+
+Feature requests and issues are welcome on the Issues page.
+
+Commercial support available.
+
+✨ Related Projects
+
+Off-grid AI system assistants
+
+Linux setup automators for clean, fast, AI-ready environments
+
+Nature is calling. Will you answer?
