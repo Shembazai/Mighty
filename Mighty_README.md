@@ -19,7 +19,10 @@
 
 ## 📸 Screenshot
 
-*(Optional: Add a screenshot of the terminal running mighty.py here)*
+Here's Mighty in action (errors shown are because I already ran it on this system):
+
+![mighty_terminal_screenshot](https://github.com/user-attachments/assets/4d492b99-b5a2-407c-b9ea-30ee1ee46540)
+
 
 ---
 
